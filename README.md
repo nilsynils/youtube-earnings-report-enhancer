@@ -1,7 +1,7 @@
 # YouTube Earnings Report Enhancer
 Adds the monthly projected earnings and the latest day's earnings as well.
 
-##To Use This On Your YouTube Earnings Report
+## To Use This On Your YouTube Earnings Report
 
 1. Copy all of the Javascript from the JS section below
 2. Create a new bookmark in your browser. Could be from any page - doesn't matter.
